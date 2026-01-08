@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Madyto</h1>
+<h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">A dev from France 🇫🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madyto&label=Profile%20views&color=0e75b6&style=flat" alt="madyto" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,Python,PHP & SQL**
 
-- 📫 How to reach me **madytohere75@gmail.com**
+- 📫 How to reach me **thollemaert@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
